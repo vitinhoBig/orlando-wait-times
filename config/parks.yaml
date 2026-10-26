@@ -1,0 +1,25 @@
+# List of Orlando theme parks to track.
+# YAML basics: indentation shows nesting, and each "-" starts one item in a list.
+# Each park has:
+#   name - a human-friendly label (used when printing results)
+#   id   - the park's unique ID (UUID) on the themeparks.wiki API, used to build the request URL
+parks:
+  # Walt Disney World
+  - name: Magic Kingdom
+    id: 75ea578a-adc8-4116-a54d-dccb60765ef9
+  - name: EPCOT
+    id: 47f90d2c-e191-4239-a466-5892ef59a88b
+  - name: Hollywood Studios
+    id: 288747d1-8b4f-4a64-867e-ea7c9b27bad8
+  - name: Animal Kingdom
+    id: 1c84a229-8862-4648-9c71-378ddd2c7693
+  # Universal Orlando Resort
+  - name: Universal Studios Florida
+    id: eb3f4560-2383-4a36-9152-6b3e5ed6bc57
+  - name: Islands of Adventure
+    id: 267615cc-8943-4c2a-ae2c-5da728ca591f
+  - name: Epic Universe
+    id: 12dbb85b-265f-44e6-bccf-f1faa17211fc
+  # SeaWorld
+  - name: SeaWorld Orlando
+    id: 27d64dee-d85e-48dc-ad6d-8077445cd946
