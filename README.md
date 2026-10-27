@@ -1,4 +1,5 @@
 # Orlando Wait Times
+
 [![CI](https://github.com/vitinhoBig/orlando-wait-times/actions/workflows/ci.yml/badge.svg)](https://github.com/vitinhoBig/orlando-wait-times/actions/workflows/ci.yml)
 
 Continuous collector and forecasting pipeline for theme park wait times in Orlando, FL.
